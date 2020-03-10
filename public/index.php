@@ -10,3 +10,4 @@ $ar=$link->query($query)->fetchAll(2);
 foreach($ar as $item){
     dd($item);
 }
+echo "URAAAAAA";
